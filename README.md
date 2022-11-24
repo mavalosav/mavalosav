@@ -37,7 +37,7 @@ const thai = {
     margin: -35px 0px -10px 78px;
 "><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Avalos_ia?style=flat-square&logo=instagram"></a>
 
-<a href="mailto:manuelavalosave@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-manuelavalosave@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:contacto@manuelavalos.dev"><img alt="Email" src="https://img.shields.io/badge/Email-manuelavalosave@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 <!--
 **manuelavalosave/manuelavalosave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
